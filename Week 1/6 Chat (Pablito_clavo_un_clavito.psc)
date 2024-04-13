@@ -47,7 +47,7 @@ Algoritmo Pablioto_clavo_un_clavito
 	Escribir "en que curso vas?";
 	leer curso;
 	
-	Escribir "Con que nota crees que pasaras este año?? ";
+	Escribir "Con que nota crees que pasaras este aÃ±o?? ";
 	leer nota;
 	
 	Si (nota < 6) Entonces
@@ -83,7 +83,7 @@ Algoritmo Pablioto_clavo_un_clavito
 		Leer Ops;
 		
 		Si Ops <> 1 Y Ops <> 2 Entonces
-			Escribir "Opción no valida. Por favor, seleccione 1 o 2." ;
+			Escribir "OpciÃ³n no valida. Por favor, seleccione 1 o 2." ;
 		FinSi
 		
 	Hasta Que Ops = 1 O Ops = 2
