@@ -17,7 +17,7 @@ Repetir
 	//Si la opcion no es ni 1 ni 2 da un error
 	
 	Si Opc <> 1 Y Opc <> 2 Entonces
-		Escribir "Opción no valida. Por favor, seleccione 1 o 2." ;
+		Escribir "OpciÃ³n no valida. Por favor, seleccione 1 o 2." ;
 	FinSi
 	
 	//La repeticion acaba hasta que se cumplan los parametros. (EN ESTE CASO, TIENE QUE SER 1 O 2) //
